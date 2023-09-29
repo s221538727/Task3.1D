@@ -1,0 +1,35 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Item 1",
+        "category": "Category A",
+        "value": 42
+      },
+      {
+        "id": 2,
+        "name": "Item 2",
+        "category": "Category B",
+        "value": 68
+      },
+      {
+        "id": 3,
+        "name": "Item 3",
+        "category": "Category A",
+        "value": 55
+      },
+      {
+        "id": 4,
+        "name": "Item 4",
+        "category": "Category C",
+        "value": 29
+      },
+      {
+        "id": 5,
+        "name": "Item 5",
+        "category": "Category B",
+        "value": 75
+      }
+    ]
+  }
+  
